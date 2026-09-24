@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Retro Arcade",
+  "description": "A complete, fully playable, and polished clone of the classic Flappy Bird arcade game with procedural 2D canvas graphics and Web Audio API sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
